@@ -43,7 +43,7 @@ h1 {
   background-color: #d9d9d9;
   /* max-width: 80%; */
   width: 100%;
-  box-sizing: border-box; /*to sprawia że padding nie wpływa na szerokość*/
+  box-sizing: border-box; 
   border: 2px;
   height: 20%;
   font-size: 600%;
@@ -70,7 +70,6 @@ h1 {
   border-bottom: 8px solid #6e6e6e;
   border-radius: 3px;
 
-  /* FHD */
   height: 5rem;
 }
 
@@ -80,7 +79,6 @@ h1 {
   transform: translateY(6px);
 }
 
-/* :active fajne do buttonów */
 
 #calculator-button-clear {
   grid-column-start: 1;
